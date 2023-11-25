@@ -1,5 +1,5 @@
 # Command-Line-Interpreter
-This is a simulation of (CLI) implemented with Java
+This is a simulation of (CLI)
 
 This code has many used commands:
       1- echo
